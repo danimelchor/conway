@@ -1,2 +1,6 @@
 # conway
-"The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input."  Interactive Python environment to observe this fenomenon.  Modules: Pygame, NumPy, Time
+"The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input."
+
+Interactive Python environment to observe this fenomenon.
+
+Modules: Pygame, NumPy, Time
