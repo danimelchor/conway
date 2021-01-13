@@ -3,4 +3,4 @@
 
 Interactive Python environment to observe this fenomenon.
 
-Modules: Pygame, NumPy, Time
+Modules: `Pygame, NumPy, Time`
